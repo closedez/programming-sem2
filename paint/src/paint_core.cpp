@@ -1,5 +1,4 @@
 #include "paint_core.hpp"
-
 #include <algorithm>
 #include <cmath>
 #include <stack>
